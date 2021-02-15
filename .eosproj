@@ -1,0 +1,21 @@
+{
+  "main": "./makecontract.cpp",
+  "contract": "makecontract",
+  "include": "",
+  "resource": "",
+  "cdt": "v1.6.3",
+  "output": "",
+  "scripts": {
+    "build": ""
+  },
+  "deploy": {
+    "target": "both",
+    "mainnet": "",
+    "kylin": "",
+    "jungle": "",
+    "local": ""
+  },
+  "test": {
+    "npmClient": ""
+  }
+}
